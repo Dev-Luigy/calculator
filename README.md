@@ -1,10 +1,15 @@
 
+
 # React Calculator
+
+
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 This project is a simple calculator built using ReactJS.
+
+![image](https://github.com/Dev-Luigy/calculator/assets/85412506/56482533-ba3f-46e3-8cac-af4be9d03772)
 
 ## Getting Started
 
